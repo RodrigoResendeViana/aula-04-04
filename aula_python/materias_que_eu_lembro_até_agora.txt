@@ -1,0 +1,9 @@
+operadores relacionais
+operações
+if,elif,else
+laços de repetição(while)
+match case
+variaveis
+int,float,string,booleano
+fstring
+                                                                        
